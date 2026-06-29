@@ -23,16 +23,15 @@ GitHub Pages…) e funziona così com'è. Nessun `npm`, nessun build.
 - **Cloudflare Pages → Upload assets**: trascina il *contenuto* di questa cartella.
 - Oppure metti la cartella su un dominio/sottodominio ombrello dedicato.
 
-## Cosa aggiornare prima di andare online
+## URL dei prodotti
 
-Gli URL dei tre prodotti sono **provvisori**. In `index.html` cerca `data-prodotto`
-e sostituisci gli `href`:
+Impostati in `index.html` (cerca `data-prodotto`):
 
-| Prodotto       | href attuale (provvisorio)     |
-|----------------|--------------------------------|
-| interventia    | `https://interventia.pages.dev`|
-| Lucentia       | `https://lucentia.pages.dev`   |
-| Menù Digitale  | `https://menudigitale.it`      |
+| Prodotto       | href                                       |
+|----------------|--------------------------------------------|
+| interventia    | `https://interventia.pages.dev/setup.html` |
+| Lucentia       | `https://lucentia-web.pages.dev/`          |
+| Menù Digitale  | `https://menu-digitale-f3q.pages.dev/`     |
 
 Contatti già impostati: WhatsApp `392 0241955`, email `amministrazione@cmav.it`,
 sito `officesolutionoleggio.com`.
